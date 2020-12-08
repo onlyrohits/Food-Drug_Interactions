@@ -1,0 +1,10 @@
+drug-food-similarity.csv (google colab) 78MB
+id_similarity.scv (google colab) 10MB (drug-drug similarity)
+food_compound_name_similarity.csv (google colab) 32MB (food-food similarity)
+
+
+Compute Canada
+drug_drug_interactions.csv 54M
+demo_small_molecule_approved_smiles.csv 57M
+demo.csv 35M
+demo_small_molecule_approved.csv 30M
